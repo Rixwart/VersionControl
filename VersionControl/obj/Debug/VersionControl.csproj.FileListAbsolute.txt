@@ -1,0 +1,10 @@
+C:\Users\RIXWART\Source\Repos\VersionControl\VersionControl\bin\Debug\VersionControl.exe.config
+C:\Users\RIXWART\Source\Repos\VersionControl\VersionControl\bin\Debug\VersionControl.exe
+C:\Users\RIXWART\Source\Repos\VersionControl\VersionControl\bin\Debug\VersionControl.pdb
+C:\Users\RIXWART\Source\Repos\VersionControl\VersionControl\obj\Debug\VersionControl.csprojAssemblyReference.cache
+C:\Users\RIXWART\Source\Repos\VersionControl\VersionControl\obj\Debug\VersionControl.Form1.resources
+C:\Users\RIXWART\Source\Repos\VersionControl\VersionControl\obj\Debug\VersionControl.Properties.Resources.resources
+C:\Users\RIXWART\Source\Repos\VersionControl\VersionControl\obj\Debug\VersionControl.csproj.GenerateResource.cache
+C:\Users\RIXWART\Source\Repos\VersionControl\VersionControl\obj\Debug\VersionControl.csproj.CoreCompileInputs.cache
+C:\Users\RIXWART\Source\Repos\VersionControl\VersionControl\obj\Debug\VersionControl.exe
+C:\Users\RIXWART\Source\Repos\VersionControl\VersionControl\obj\Debug\VersionControl.pdb
